@@ -74,7 +74,7 @@ const Register = () => {
                 <input type="submit" value="Sign Up" className= "btn btn-primary" />
             </form>
         </div>
-        <Login path= "/"></Login>
+        
         
         </>
     );
